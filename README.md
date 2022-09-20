@@ -8,7 +8,7 @@ This repository contains a reference implementation of the algorithms described 
 
 Common medical image segmentation tasks require large training datasets with pixel-level annotations which are very expensive and time-consuming to prepare.  In this paper, we aim to address the following two issues in a unified framework: 1) How to utilize weak labels to reduce the annotation time of strong labels; 2) How to utilize weak labels and very few strong labels to ensure desired segmentation accuracy. To this end,  we propose a novel Weakly-Interactive-Mixed Learning (WIML) framework with a multi-task Full-Parameter-Sharing Network (FPSNet), which effectively alleviates the annotation burden of medical images and obtains the desired segmentation results with only weak labels. Experiments demonstrate that our method outperforms several state-of-the-art segmentation methods with minimal annotation efforts. This work is promising to free clinicians from the exhaustive labor of annotation and can be applied to different imaging types of medical images for further clinical use.
 
-<img src="/run/user/1000/doc/2f0bfb8c/intro.jpg" style="zoom:10%;" />
+<img src="./intro.jpg" style="zoom:10%;" />
 
 
 
